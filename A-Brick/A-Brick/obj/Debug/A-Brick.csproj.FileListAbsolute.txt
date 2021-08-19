@@ -1,0 +1,6 @@
+C:\Users\ANNAI\OneDrive\Visual Studio\A-Brick\A-Brick\bin\Debug\A-Brick.exe.config
+C:\Users\ANNAI\OneDrive\Visual Studio\A-Brick\A-Brick\bin\Debug\A-Brick.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\A-Brick\A-Brick\bin\Debug\A-Brick.pdb
+C:\Users\ANNAI\OneDrive\Visual Studio\A-Brick\A-Brick\obj\Debug\A-Brick.csprojResolveAssemblyReference.cache
+C:\Users\ANNAI\OneDrive\Visual Studio\A-Brick\A-Brick\obj\Debug\A-Brick.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\A-Brick\A-Brick\obj\Debug\A-Brick.pdb
