@@ -1,0 +1,6 @@
+C:\Users\Insta\OneDrive\Array One\Array One\bin\Debug\Array One.exe.config
+C:\Users\Insta\OneDrive\Array One\Array One\bin\Debug\Array One.exe
+C:\Users\Insta\OneDrive\Array One\Array One\bin\Debug\Array One.pdb
+C:\Users\Insta\OneDrive\Array One\Array One\obj\Debug\Array One.exe
+C:\Users\Insta\OneDrive\Array One\Array One\obj\Debug\Array One.pdb
+C:\Users\Insta\OneDrive\Array One\Array One\obj\Debug\Array One.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\LUCIFER\OneDrive\Collection Class Ex1\Collection Class Ex1\bin\Debug\Collection Class Ex1.exe.config
+C:\Users\LUCIFER\OneDrive\Collection Class Ex1\Collection Class Ex1\bin\Debug\Collection Class Ex1.exe
+C:\Users\LUCIFER\OneDrive\Collection Class Ex1\Collection Class Ex1\bin\Debug\Collection Class Ex1.pdb
+C:\Users\LUCIFER\OneDrive\Collection Class Ex1\Collection Class Ex1\obj\Debug\Collection Class Ex1.csprojResolveAssemblyReference.cache
+C:\Users\LUCIFER\OneDrive\Collection Class Ex1\Collection Class Ex1\obj\Debug\Collection Class Ex1.exe
+C:\Users\LUCIFER\OneDrive\Collection Class Ex1\Collection Class Ex1\obj\Debug\Collection Class Ex1.pdb
+C:\Users\ANNAI\OneDrive\Collection Class Ex1\Collection Class Ex1\bin\Debug\Collection Class Ex1.exe.config
+C:\Users\ANNAI\OneDrive\Collection Class Ex1\Collection Class Ex1\obj\Debug\Collection Class Ex1.exe
+C:\Users\ANNAI\OneDrive\Collection Class Ex1\Collection Class Ex1\obj\Debug\Collection Class Ex1.pdb
+C:\Users\ANNAI\OneDrive\Collection Class Ex1\Collection Class Ex1\bin\Debug\Collection Class Ex1.exe
+C:\Users\ANNAI\OneDrive\Collection Class Ex1\Collection Class Ex1\bin\Debug\Collection Class Ex1.pdb
+C:\Users\ANNAI\OneDrive\Collection Class Ex1\Collection Class Ex1\obj\Debug\Collection Class Ex1.csprojResolveAssemblyReference.cache

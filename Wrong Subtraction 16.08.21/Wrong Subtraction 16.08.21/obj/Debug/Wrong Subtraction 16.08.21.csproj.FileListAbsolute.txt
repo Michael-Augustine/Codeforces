@@ -1,0 +1,6 @@
+C:\Users\ANNAI\OneDrive\Visual Studio\Wrong Subtraction 16.08.21\Wrong Subtraction 16.08.21\bin\Debug\Wrong Subtraction 16.08.21.exe.config
+C:\Users\ANNAI\OneDrive\Visual Studio\Wrong Subtraction 16.08.21\Wrong Subtraction 16.08.21\bin\Debug\Wrong Subtraction 16.08.21.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Wrong Subtraction 16.08.21\Wrong Subtraction 16.08.21\bin\Debug\Wrong Subtraction 16.08.21.pdb
+C:\Users\ANNAI\OneDrive\Visual Studio\Wrong Subtraction 16.08.21\Wrong Subtraction 16.08.21\obj\Debug\Wrong Subtraction 16.08.21.csprojResolveAssemblyReference.cache
+C:\Users\ANNAI\OneDrive\Visual Studio\Wrong Subtraction 16.08.21\Wrong Subtraction 16.08.21\obj\Debug\Wrong Subtraction 16.08.21.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Wrong Subtraction 16.08.21\Wrong Subtraction 16.08.21\obj\Debug\Wrong Subtraction 16.08.21.pdb

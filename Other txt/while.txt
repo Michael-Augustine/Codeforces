@@ -1,0 +1,421 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace set_5_while_loops
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            
+             #region 1. Program to count the number of digits in a given integer number
+
+                //Console.WriteLine("Enter the Number");
+                //int count = 0;
+                //int N = Convert.ToInt32(Console.ReadLine());
+
+                //while (N != 0)
+                //{
+                //    N = N / 10;
+                //    count++;
+
+                //}
+                //Console.WriteLine("The Digit is " + count);
+                //Console.ReadLine();
+                #endregion
+
+                #region 2. Check if the given number is of even length or odd length
+
+
+                //int N = GetInteger("Enter the number");
+                //int count = 0;
+                //while (N > 0)
+                //{
+                //    N = N / 10;
+                //    count++;
+                //}
+
+                //Console.WriteLine("The length is " + count);
+                //if (count % 2 == 0)
+                //{
+                //    Console.WriteLine("length of " + count + "is even");
+                //}
+                //else
+                //{
+                //    Console.WriteLine(" length of " + count + "is odd");
+                //}
+            
+                #endregion
+
+                #region 3. Find the sum of digits of a given integer
+
+                //int N = GetInteger("Enter the number");
+                //int sum = 0;
+                //int count = 0;
+                //int r = 0;
+                //while (N > 0)
+                //{
+                //    r = N % 10;
+                //    sum += r;
+                //    N = N / 10;
+                //    count++;
+                //}
+                //Console.WriteLine("Number of Digits" + count );
+                //Console.WriteLine("Sum of Digit is " + sum);
+                //Console.ReadLine();
+               
+            
+                #endregion
+
+                #region 4. Find the sum of digits located in the odd positions of a given integer
+
+            //int N = GetInteger("Enter the number");
+            //int count = 0;
+            //while (N > 0)
+            //{
+            //    N = N / 10;
+            //    count++;
+            //}
+
+            //Console.WriteLine("The length is " + count);
+            //if (count % 2 == 0) 
+            //{
+            //    Console.WriteLine("length of " + count + "is even");
+            //}
+            //else
+            //{
+            //    Console.WriteLine(" length of " + count + "is odd");
+            //}
+            
+
+                
+                #endregion
+
+                #region 6. Count the number of even digits in an Integer
+
+                //int count = 0;
+                //int num = GetInteger("Enter the number");
+                //while (num > 0)
+                //{
+                //    num = num / 10;
+                //    if (num % 2 == 0)
+                //    {
+                //        count++;
+                //    }
+                //}
+                //Console.WriteLine("The Number of even digit is" + count);
+                //Console.ReadLine();
+           
+
+           
+
+
+                #endregion
+    #region 7. Count the number of odd digits in an Integer
+
+                //int count = 0;
+                //int N = GetInteger("Enter the number");
+                //while (N > 0)
+                //{
+                //    N = N / 10;
+                //    if (N % 2 != 0)
+                //    {
+                //        count++;
+                //    }
+                //}
+                //Console.WriteLine("The number of odd digit is" + count);
+
+           
+	    #endregion
+
+
+                #region 8. Find the sum of the odd digits of a given integer
+
+                //int sum = 0, rem;
+                //int num = GetInteger("Enter the number");
+                //while (num != 0)
+                //{
+                //    rem = num % 10;
+                //    num = num / 10;
+                //    if (rem % 2 != 0)
+                //    {
+                //        sum += rem;
+                //    }
+                //    //num = num / 10;
+                //}
+                //Console.WriteLine("Sum of the Odd digits: " + sum); 
+                #endregion
+
+                #region 9.Find the sum of the even digits in given integer
+
+                //int Even_sum = 0, rem;
+                //int num = GetInteger("Enter the number");
+                //while (num != 0)
+                //{
+                //    rem = num % 10;
+                //    if (rem % 2 == 0)
+                //    {
+                //        Even_sum += rem;
+                //    }
+                //    num = num / 10;
+                //}
+                //Console.WriteLine("Sum of the Odd digits: " + Even_sum);
+                #endregion
+
+
+                #region 10. Get the last digit of a given integer
+
+
+                //int N = GetInteger("Enter the number");
+                //while (N >= 10)
+                //{
+                //    N = N % 10;
+                
+
+                //}
+                //Console.WriteLine("Last digit is" +  N);
+            
+                #endregion
+
+                #region 11. Get the first digit of a given integer
+
+                //int A = GetInteger("Enter the number");
+                //while (A >= 10)
+                //{
+                //    A /= 10;
+                //}
+                //Console.WriteLine("First digit of a given num is " +A);
+
+
+                #endregion
+
+                #region 12)Find if the first and last digits of a given integer are the same
+
+            //int first_digit, last_digit, num;
+            //Console.WriteLine("Enter the number");
+            //num = Convert.ToInt32(Console.ReadLine());
+            //first_digit = num;
+            //last_digit = num;
+            //while (first_digit > 10)
+            //{
+            //    first_digit = first_digit / 10;
+            //    last_digit = last_digit % 10;
+                
+            //}
+            //if (first_digit == last_digit)
+            //{
+            //    Console.WriteLine("True");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("False");
+            //}
+            ////Console.WriteLine("First Number" + first_digit);
+            ////Console.WriteLine("Last Number" + last_digit);
+            ////Console.WriteLine("yes both number is equal: " + equal(first_digit, last_digit));
+            ////Console.ReadLine();
+                #endregion
+
+
+                #region 13. Given an integer, find the digit with maximum value
+
+            //int rem = 0, Max_value = 0;
+            //int Num = GetInteger("Enter the number=");
+            //while (Num > 0)
+            //{
+
+            //    rem = Num % 10;
+            //    if (rem > Max_value)
+            //    {
+            //        Max_value = rem;
+            //    }
+            //    Num /= 10;
+
+            //}
+            //Console.WriteLine("Max value is" + Max_value);
+
+                #endregion
+
+
+            #region 14. Given an integer find the location (1s, 10s, 100s, 1000s, etc.,) of the digit with maximum value
+
+            ////int num = GetInteger("Enter the number");
+            ////int max_value = 0, count = 0, rem ;
+            ////while (num > 0)
+            ////{
+            ////    rem = num % 10;
+            ////    if (rem > max_value)
+            ////    {
+            ////        max_value = rem;
+            ////        count++;
+            ////        Console.WriteLine(count);
+            ////    }
+            ////    else
+            ////    {
+            ////        count--;
+            ////    }
+            ////    num /= 10;
+            ////}
+            ////Console.WriteLine("Max Digit Position: " + Math.Pow(10, count) + "'s Location");
+            #endregion
+
+
+            #region 15. Given an integer, find the digit with minimum value
+
+            //int rem = 0;
+            //int Num = GetInteger("Enter the number");
+            //int Min_value = Num;
+            //while (Num > 0)
+            //{
+
+            //    rem = Num % 10;
+            //    if (rem < Min_value)
+            //    {
+            //        Min_value = rem;
+            //    }
+            //    Num /= 10;
+
+            //}
+            //Console.WriteLine("Minimum value is" + Min_value);
+
+                #endregion
+
+
+                #region 17.Reverse a given integer number N
+
+                //int remainder, reverse = 0;
+                //int number = GetInteger("Enter the number");
+                //while (number > 0)
+                //{
+                //    remainder = number % 10;
+                //    number /= 10;
+                //    reverse = (reverse * 10) + remainder;
+                //}
+                //Console.WriteLine("The reverse number is " + reverse);
+                #endregion
+
+            #region 18. Find the digital root of a given integer (Digital root means - keep adding and folding till it becomes a single digit)
+
+            ////int N = GetInteger("Enter the number");
+            ////int root = 0;
+            ////int d;
+
+            ////while (N > 0 || root > 9)
+            ////{
+            ////    d = N % 10;
+            ////    root = root + d;
+            ////    N /= 10;
+
+            ////    if (root > 9)
+            ////    {
+            ////        N = root;
+            ////        root = 0;
+
+            ////    }
+               
+            ////}
+
+
+            ////Console.WriteLine("Digital root is  " + root);
+            
+            #endregion
+
+            #region MyRegion
+
+            //int num = 128;
+                //int rem;
+                //while (num != 0)
+                //{
+                //    rem = num % 10;
+            //    num /= 10;
+            //    if (128 % 1 == 0 || 128 % 2 == 0 || 128 % 8 == 0)
+            //    {
+                   
+            //    }
+                
+            //}
+            #endregion
+
+            #region 20. Program to count how many digits of a given integer N are divisible by another positive integer K
+
+            //int N, K,rem,count=0;
+            //N = GetInteger("Enter the number");
+            //K = GetInteger("Enter the divisible number");
+            //while (N > 0)
+            //{
+            //    rem = N % 10;
+            //    if (rem % K == 0)
+            //    {
+            //        count++;
+            //    }
+            //    N /= 10;
+            //}
+            //Console.WriteLine("The No of Digits: "+count);
+            #endregion
+
+            #region 21.Check if a given two or three digit positive integer is a palindrome or not
+
+            //int n, r, sum = 0, temp;
+            //Console.Write("Enter the Number: ");
+            //n = int.Parse(Console.ReadLine());
+            //temp = n;
+            //while (n > 0)
+            //{
+            //    r = n % 10;
+            //    sum = (sum * 10) + r;
+            //    n = n / 10;
+            //}
+            //if (temp == sum)
+            //    Console.WriteLine("True");
+            //else
+            //    Console.WriteLine("False");     
+            #endregion
+
+            #region 22. Check if the given positive long integer is palindrome or not
+
+            //long  r, sum = 0, temp;
+            //Console.Write("Enter the Number: ");
+            // long n = long.Parse(Console.ReadLine());
+            //temp = n;
+            //while (n > 0)
+            //{
+            //    r = n % 10;
+            //    sum = (sum * 10) + r;
+            //    n = n / 10;
+            //}
+            //if (temp == sum)
+            //    Console.WriteLine("True");
+            //else
+            //    Console.WriteLine("False");  
+
+
+            #endregion
+
+
+        }
+  #region Input /Output Function
+        public static int GetInteger(String message)
+        {
+            Console.WriteLine("*****Getting Input From User******");
+            Console.WriteLine(message + ":");
+            int temp = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("*****************");
+            return temp;
+        }
+        public static bool equal(int first_digit, int last_digit)
+        {
+            return (first_digit == last_digit);
+        }
+        public static bool palindrome(int first_digit, int last_digit)
+        {
+            return (first_digit == last_digit);
+        }
+   
+   
+       
+        #endregion
+    }
+}

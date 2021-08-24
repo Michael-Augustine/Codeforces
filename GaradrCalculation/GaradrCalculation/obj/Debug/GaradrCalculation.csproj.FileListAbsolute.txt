@@ -1,0 +1,6 @@
+C:\Users\ANNAI\OneDrive\GaradrCalculation\GaradrCalculation\bin\Debug\GaradrCalculation.exe.config
+C:\Users\ANNAI\OneDrive\GaradrCalculation\GaradrCalculation\bin\Debug\GaradrCalculation.exe
+C:\Users\ANNAI\OneDrive\GaradrCalculation\GaradrCalculation\bin\Debug\GaradrCalculation.pdb
+C:\Users\ANNAI\OneDrive\GaradrCalculation\GaradrCalculation\obj\Debug\GaradrCalculation.csprojResolveAssemblyReference.cache
+C:\Users\ANNAI\OneDrive\GaradrCalculation\GaradrCalculation\obj\Debug\GaradrCalculation.exe
+C:\Users\ANNAI\OneDrive\GaradrCalculation\GaradrCalculation\obj\Debug\GaradrCalculation.pdb

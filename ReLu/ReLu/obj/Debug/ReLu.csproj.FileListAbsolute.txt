@@ -1,0 +1,6 @@
+C:\Users\ANNAI\OneDrive\Visual Studio\ReLu\ReLu\bin\Debug\ReLu.exe.config
+C:\Users\ANNAI\OneDrive\Visual Studio\ReLu\ReLu\bin\Debug\ReLu.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\ReLu\ReLu\bin\Debug\ReLu.pdb
+C:\Users\ANNAI\OneDrive\Visual Studio\ReLu\ReLu\obj\Debug\ReLu.csprojResolveAssemblyReference.cache
+C:\Users\ANNAI\OneDrive\Visual Studio\ReLu\ReLu\obj\Debug\ReLu.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\ReLu\ReLu\obj\Debug\ReLu.pdb

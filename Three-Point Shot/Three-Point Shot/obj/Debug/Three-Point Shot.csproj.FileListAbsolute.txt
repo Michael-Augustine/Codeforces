@@ -1,0 +1,6 @@
+C:\Users\ANNAI\OneDrive\Visual Studio\Three-Point Shot\Three-Point Shot\bin\Debug\Three-Point Shot.exe.config
+C:\Users\ANNAI\OneDrive\Visual Studio\Three-Point Shot\Three-Point Shot\bin\Debug\Three-Point Shot.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Three-Point Shot\Three-Point Shot\bin\Debug\Three-Point Shot.pdb
+C:\Users\ANNAI\OneDrive\Visual Studio\Three-Point Shot\Three-Point Shot\obj\Debug\Three-Point Shot.csprojResolveAssemblyReference.cache
+C:\Users\ANNAI\OneDrive\Visual Studio\Three-Point Shot\Three-Point Shot\obj\Debug\Three-Point Shot.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Three-Point Shot\Three-Point Shot\obj\Debug\Three-Point Shot.pdb

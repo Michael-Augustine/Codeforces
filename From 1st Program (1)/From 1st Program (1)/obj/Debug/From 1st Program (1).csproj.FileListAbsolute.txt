@@ -1,0 +1,6 @@
+C:\Users\LUCIFER\OneDrive\From 1st Program (1)\From 1st Program (1)\bin\Debug\From 1st Program (1).exe.config
+C:\Users\LUCIFER\OneDrive\From 1st Program (1)\From 1st Program (1)\bin\Debug\From 1st Program (1).exe
+C:\Users\LUCIFER\OneDrive\From 1st Program (1)\From 1st Program (1)\bin\Debug\From 1st Program (1).pdb
+C:\Users\LUCIFER\OneDrive\From 1st Program (1)\From 1st Program (1)\obj\Debug\From 1st Program (1).csprojResolveAssemblyReference.cache
+C:\Users\LUCIFER\OneDrive\From 1st Program (1)\From 1st Program (1)\obj\Debug\From 1st Program (1).exe
+C:\Users\LUCIFER\OneDrive\From 1st Program (1)\From 1st Program (1)\obj\Debug\From 1st Program (1).pdb

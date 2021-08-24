@@ -1,0 +1,6 @@
+C:\Users\LUCIFER\OneDrive\PrimeaNumber\PrimeaNumber\bin\Debug\PrimeaNumber.exe.config
+C:\Users\LUCIFER\OneDrive\PrimeaNumber\PrimeaNumber\obj\Debug\PrimeaNumber.csprojResolveAssemblyReference.cache
+C:\Users\LUCIFER\OneDrive\PrimeaNumber\PrimeaNumber\bin\Debug\PrimeaNumber.exe
+C:\Users\LUCIFER\OneDrive\PrimeaNumber\PrimeaNumber\bin\Debug\PrimeaNumber.pdb
+C:\Users\LUCIFER\OneDrive\PrimeaNumber\PrimeaNumber\obj\Debug\PrimeaNumber.exe
+C:\Users\LUCIFER\OneDrive\PrimeaNumber\PrimeaNumber\obj\Debug\PrimeaNumber.pdb

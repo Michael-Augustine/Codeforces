@@ -1,0 +1,6 @@
+C:\Users\ANNAI\OneDrive\Visual Studio\Number Into Word's\Number Into Word's\bin\Debug\Number Into Word's.exe.config
+C:\Users\ANNAI\OneDrive\Visual Studio\Number Into Word's\Number Into Word's\obj\Debug\Number Into Word's.csprojResolveAssemblyReference.cache
+C:\Users\ANNAI\OneDrive\Visual Studio\Number Into Word's\Number Into Word's\bin\Debug\Number Into Word's.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Number Into Word's\Number Into Word's\bin\Debug\Number Into Word's.pdb
+C:\Users\ANNAI\OneDrive\Visual Studio\Number Into Word's\Number Into Word's\obj\Debug\Number Into Word's.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Number Into Word's\Number Into Word's\obj\Debug\Number Into Word's.pdb

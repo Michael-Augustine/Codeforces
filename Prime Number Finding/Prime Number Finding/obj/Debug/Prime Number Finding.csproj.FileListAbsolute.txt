@@ -1,0 +1,12 @@
+C:\Users\ANNAI\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\bin\Debug\Prime Number Finding.exe.config
+C:\Users\ANNAI\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\bin\Debug\Prime Number Finding.exe
+C:\Users\ANNAI\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\bin\Debug\Prime Number Finding.pdb
+C:\Users\ANNAI\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\obj\Debug\Prime Number Finding.exe
+C:\Users\ANNAI\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\obj\Debug\Prime Number Finding.pdb
+C:\Users\ANNAI\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\obj\Debug\Prime Number Finding.csprojResolveAssemblyReference.cache
+C:\Users\LUCIFER\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\bin\Debug\Prime Number Finding.exe.config
+C:\Users\LUCIFER\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\obj\Debug\Prime Number Finding.exe
+C:\Users\LUCIFER\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\obj\Debug\Prime Number Finding.pdb
+C:\Users\LUCIFER\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\obj\Debug\Prime Number Finding.csprojResolveAssemblyReference.cache
+C:\Users\LUCIFER\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\bin\Debug\Prime Number Finding.exe
+C:\Users\LUCIFER\OneDrive\Asp.net\Prime Number Finding\Prime Number Finding\bin\Debug\Prime Number Finding.pdb

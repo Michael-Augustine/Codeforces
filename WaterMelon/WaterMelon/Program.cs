@@ -10,6 +10,7 @@ namespace WaterMelon
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Michael 1");
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\LUCIFER\OneDrive\From 2nd Program (2)\From 2nd Program (2)\bin\Debug\From 2nd Program (2).exe.config
+C:\Users\LUCIFER\OneDrive\From 2nd Program (2)\From 2nd Program (2)\bin\Debug\From 2nd Program (2).exe
+C:\Users\LUCIFER\OneDrive\From 2nd Program (2)\From 2nd Program (2)\bin\Debug\From 2nd Program (2).pdb
+C:\Users\LUCIFER\OneDrive\From 2nd Program (2)\From 2nd Program (2)\obj\Debug\From 2nd Program (2).exe
+C:\Users\LUCIFER\OneDrive\From 2nd Program (2)\From 2nd Program (2)\obj\Debug\From 2nd Program (2).pdb
