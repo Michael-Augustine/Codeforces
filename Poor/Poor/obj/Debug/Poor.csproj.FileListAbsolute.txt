@@ -1,0 +1,6 @@
+C:\Users\ANNAI\OneDrive\Visual Studio\Poor\Poor\bin\Debug\Poor.exe.config
+C:\Users\ANNAI\OneDrive\Visual Studio\Poor\Poor\bin\Debug\Poor.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Poor\Poor\bin\Debug\Poor.pdb
+C:\Users\ANNAI\OneDrive\Visual Studio\Poor\Poor\obj\Debug\Poor.csprojResolveAssemblyReference.cache
+C:\Users\ANNAI\OneDrive\Visual Studio\Poor\Poor\obj\Debug\Poor.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Poor\Poor\obj\Debug\Poor.pdb

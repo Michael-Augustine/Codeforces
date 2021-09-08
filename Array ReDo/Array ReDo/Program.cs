@@ -25,18 +25,26 @@ namespace Array_ReDo
             #endregion
  
             #region 2dn Program
-            Console.WriteLine("Enter The N Value");
-            int n = Convert.ToInt32(Console.ReadLine());
-            int[] a = new int[n];
-            int i;
-            for (i = 0; i < a.Length;i++)
-            {
-                a[i] = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Enter The N Value");
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //int[] a = new int[n];
+            //int i;
+            //for (i = 0; i < a.Length;i++)
+            //{
+            //    a[i] = Convert.ToInt32(Console.ReadLine());
                 
-            }
-            Console.WriteLine(a[i] + " ");
-            Console.ReadLine();
+            //}
+            //Console.WriteLine(a[i] + " ");
+            //Console.ReadLine();
             #endregion
+
+
+
+        }
+        public int RandomNumber(int min, int max)
+        {
+            Random rnum = new Random();
+            return rnum.Next(min, max);
         }
     }
 }

@@ -4,3 +4,6 @@ C:\Users\LUCIFER\OneDrive\Visual Studio\Array ReDo\Array ReDo\bin\Debug\Array Re
 C:\Users\LUCIFER\OneDrive\Visual Studio\Array ReDo\Array ReDo\obj\Debug\Array ReDo.csprojResolveAssemblyReference.cache
 C:\Users\LUCIFER\OneDrive\Visual Studio\Array ReDo\Array ReDo\obj\Debug\Array ReDo.exe
 C:\Users\LUCIFER\OneDrive\Visual Studio\Array ReDo\Array ReDo\obj\Debug\Array ReDo.pdb
+C:\Users\ANNAI\OneDrive\Visual Studio\Array ReDo\Array ReDo\bin\Debug\Array ReDo.exe.config
+C:\Users\ANNAI\OneDrive\Visual Studio\Array ReDo\Array ReDo\obj\Debug\Array ReDo.exe
+C:\Users\ANNAI\OneDrive\Visual Studio\Array ReDo\Array ReDo\obj\Debug\Array ReDo.pdb
